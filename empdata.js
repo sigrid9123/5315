@@ -3,7 +3,7 @@
     {
       "Artist": "Sigrid Li",
       "Album": "No Time to Waste",
-      "amount sold": "158,687",
+      "Amount sold": "158,687",
       "Releasing_Date": "2018/10/25",
       "Country": "USA",
       "Award": "N/A"
