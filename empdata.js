@@ -1,124 +1,124 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "Artist": "Sigrid Li",
+      "Album": "No Time to Waste",
+      "amount sold": "158,687",
+      "Releasing_Date": "2018/10/25",
+      "Country": "USA",
+      "Award": "N/A"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "Artist": "Brad Pitt",
+      "Album": "Happy",
+      "Amount sold": "72,000",
+      "Releasing_Date": "2012/10/02",
+      "Country": "USA",
+      "Award": "GRAMMY"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "Artist": "Ali Wong",
+      "Album": "Teenager Dream",
+      "Amount sold": "186,000",
+      "Releasing_Date": "2007/09/12",
+      "Country": "England",
+      "Award": "N/A"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "Artist": "Jean Williams",
+      "Album": "Born this way",
+      "Amount sold": "162,700",
+      "Releasing_Date": "2015/11/28",
+      "Country": "England",
+      "Award": "Academy of Country Music Awards"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "Artist": "Eminem",
+      "Album": "Pre-Sales Support",
+      "Amount sold": "1,106,450",
+      "Releasing_Date": "2011/15/18",
+      "Country": "USA",
+      "Award": "Billboard"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "Artist": "Shad Decker",
+      "Album": "Miss",
+      "Amount sold": "183,000",
+      "Releasing_Date": "2008/11/13",
+      "Country": "Australia",
+      "Award": "Billboard"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "Artist": "Smith Kelly",
+      "Album": "Drain",
+      "Amount sold": "433,060",
+      "Releasing_Date": "2012/03/29",
+      "Country": "England",
+      "Award": "Country Music Association Award"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "Artist": "Haley Kennedy",
+      "Album": "How are you",
+      "Amount sold": "313,500",
+      "Releasing_Date": "2018/09/18",
+      "Country": "England",
+      "Award": "N/A"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "Artist": "Colleen Hurst",
+      "Album": "Bad",
+      "Amount sold": "205,500",
+      "Releasing_Date": "2009/09/15",
+      "Country": "Canada",
+      "Award": "Golden Globes"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "Artist": "Borres Rios",
+      "Album": "Hello",
+      "Amount sold": "217,500",
+      "Releasing_Date": "2012/09/26",
+      "Country": "Ireland",
+      "Award": "N/A"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "Artist": "Herrod Chandler",
+      "Album": "No way",
+      "Amount sold": "137,500",
+      "Releasing_Date": "2012/08/06",
+      "Country": "USA",
+      "Award": "Grammy"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "Artist": "Rhona Davidson",
+      "Album": "Heart Missing",
+      "Amount sold": "327,900",
+      "Releasing_Date": "2010/10/14",
+      "Country": "USA",
+      "Award": "iheartradio music awards"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "Artist": "Sonya Frost",
+      "Album": "Love yourself",
+      "Amount sold": "103,600",
+      "Releasing_Date": "2008/12/13",
+      "Country": "Ireland",
+      "Award": "N/A"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "Artist": "Jena Gaines",
+      "Album": "Country",
+      "Amount sold": "90,560",
+      "Releasing_Date": "2008/12/19",
+      "Country": "England",
+      "Award": "Country music Association"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "Artist": "Quinn Flynn",
+      "Album": "Love my mom",
+      "Amount sold": "342,000",
+      "Releasing_Date": "2013/03/03",
+      "Country": "USA",
+      "Award": "N/A"
     }
   ]
 }
