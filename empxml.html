@@ -18,12 +18,12 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('artist').text(),
+                $(this).find('album').text(),
+                $(this).find('amount sold').text(),
+                $(this).find('country').text(),
+                $(this).find('releasing_date').text(),
+                $(this).find('award').text()
               ] ).draw( false );
              });
             }
@@ -36,23 +36,23 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>artist</th>
+            <th>album</th>
+            <th>amount sold</th>
+            <th>country</th>
+            <th>releasing_date</th>
+            <th>award</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>artist</th>
+            <th>album</th>
+            <th>amount sold</th>
+            <th>country</th>
+            <th>releasing_date</th>
+            <th>award</th>
         </tr>
     </tfoot>
   </table>
@@ -79,12 +79,12 @@ function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
   var table="<tr><th>Artist</th><th>Title</th></tr>";
-  var x = xmlDoc.getElementsByTagName("CD");
+  var x = xmlDoc.getElementsByTagartist("CD");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
-    x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagartist("ARTIST")[0].childNodes[0].nodeValue +
     "</td><td>" +
-    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagartist("TITLE")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
