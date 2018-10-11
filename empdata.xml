@@ -2,7 +2,7 @@
   <employees>
     <data>
       <artist>Sigrid Li</artist>
-      <ablum>No Time to Waste</ablum>
+      <album>No Time to Waste</album>
       <amount_sold>158687</amount_sold>
       <releasing_date>2018/10/25</releasing_date>
       <country>USA</country>
@@ -10,7 +10,7 @@
     </data>
     <data>
       <artist>Jean Williams</artist>
-      <ablum>Born this way</ablum>
+      <album>Born this way</album>
       <amount_sold>162,700</amount_sold>
       <releasing_date>2015/11/28</releasing_date>
       <country>England</country>
@@ -18,7 +18,7 @@
     </data>
     <data>
       <artist>Sonya Frost</artist>
-      <ablum>Love yourself</ablum>
+      <album>Love yourself</album>
       <amount_sold>103,600</amount_sold>
       <releasing_date>2008/12/13</releasing_date>
       <country>Ireland</country>
@@ -26,7 +26,7 @@
     </data>
     <data>
       <artist>Smith Kelly</artist>
-      <ablum>Drain</ablum>
+      <album>Drain</album>
       <amount_sold>433,060</amount_sold>
       <releasing_date>2012/03/29</releasing_date>
       <country>England</country>
@@ -35,7 +35,7 @@
     </data>
     <data>
       <artist>Shad Decker</artist>
-      <ablum>Miss</ablum>
+      <album>Miss</album>
       <amount_sold>183,000</amount_sold>
       <releasing_date>2008/11/13</releasing_date>
       <country>Australia</country>
@@ -43,7 +43,7 @@
     </data>
     <data>
       <artist>Rhona Davidson</artist>
-      <ablum>Heart Missing</ablum>
+      <album>Heart Missing</album>
       <amount_sold>327,900</amount_sold>
       <releasing_date>2010/10/14</releasing_date>
       <country>USA</country>
@@ -51,7 +51,7 @@
     </data>
     <data>
       <artist>Jean Gaines</artist>
-      <ablum>Country</ablum>
+      <album>Country</album>
       <amount_sold>90,560</amount_sold>
       <releasing_date>2008/12/19</releasing_date>
       <country>England</country>
@@ -59,7 +59,7 @@
     </data>
     <data>
       <artist>Herrod Chandlery</artist>
-      <ablum>No Way</ablum>
+      <album>No Way</album>
       <amount_sold>137,500</amount_sold>
       <releasing_date>2012/08/06</releasing_date>
       <country>USA</country>
@@ -67,7 +67,7 @@
     </data>
     <data>
       <artist>Haley Kennedy</artist>
-      <ablum>How are you</ablum>
+      <album>How are you</album>
       <amount_sold>313,500</amount_sold>
       <releasing_date>2018/09/18</releasing_date>
       <country>England</country>
@@ -75,7 +75,7 @@
     </data>
     <data>
       <artist>Eminem</artist>
-      <ablum>Pre-Sale Support</ablum>
+      <album>Pre-Sale Support</album>
       <amount_sold>1,106,450</amount_sold>
       <releasing_date>2011/05/18</releasing_date>
       <country>USA</country>
@@ -83,7 +83,7 @@
     </data>
     <data>
       <artist>Colleen Hurst</artist>
-      <ablum>Bad</ablum>
+      <album>Bad</album>
       <amount_sold>205,500</amount_sold>
       <releasing_date>2009/09/15</releasing_date>
       <country>Canada</country>
@@ -91,7 +91,7 @@
     </data>
     <data>
       <artist>Brad Pitt</artist>
-      <ablum>Happy</ablum>
+      <album>Happy</album>
       <amount_sold>72,000</amount_sold>
       <releasing_date>2012/10/02</releasing_date>
       <country>USA</country>
@@ -99,7 +99,7 @@
     </data>
     <data>
       <artist>Borres Rios</artist>
-      <ablum>Hello</ablum>
+      <album>Hello</album>
       <amount_sold>217,500</amount_sold>
       <releasing_date>2012/09/26</releasing_date>
       <country>Ireland</country>
@@ -107,7 +107,7 @@
     </data>
     <data>
       <artist>Ali Wong</artist>
-      <ablum>Teenager Dream</ablum>
+      <album>Teenager Dream</album>
       <amount_sold>186,000</amount_sold>
       <releasing_date>2007/09/12</releasing_date>
       <country>England</country>
@@ -115,7 +115,7 @@
     </data>
     <data>
       <artist>Quinn Flynn</artist>
-      <ablum>Love my mom</ablum>
+      <album>Love my mom</album>
       <amount_sold>342,000</amount_sold>
       <releasing_date>2013/03/03</releasing_date>
       <country>USA</country>
