@@ -36,7 +36,7 @@
       "Artist": "Eminem",
       "Album": "Pre-Sales Support",
       "Amount sold": "1,106,450",
-      "Releasing_Date": "2011/15/18",
+      "Releasing_Date": "2011/12/18",
       "Country": "USA",
       "Award": "Billboard"
     },
